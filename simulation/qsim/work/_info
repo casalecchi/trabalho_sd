@@ -1,0 +1,122 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/VHDL/TESTEALU1/simulation/qsim
+vhard_block
+Z1 !s110 1641944569
+!i10b 1
+!s100 T18L17Dg63bBWmo2SCUnV2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IW[<Oc?]VnJ:b;7lOW668=0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1641944567
+Z5 8testealu1.vo
+Z6 Ftestealu1.vo
+!i122 210
+L0 1361 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1641944569.000000
+Z9 !s107 testealu1.vo|
+Z10 !s90 -work|work|testealu1.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vtestealu1
+R1
+!i10b 1
+!s100 HNBA3da>eG84=H]dz0jDn1
+R2
+I_Tk8H?mg`:Ml]9P_8?RnE0
+R3
+R0
+R4
+R5
+R6
+!i122 210
+L0 32 1328
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestealu1_vhd_vec_tst
+Z13 w1641872162
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 203
+R0
+Z16 8Waveform3.vwf.vht
+Z17 FWaveform3.vwf.vht
+l0
+L32 1
+VFQQfbMz0XVT>7zT5ihVmP1
+!s100 NRM>H0LSJSC9MmaBDkjIa0
+Z18 OV;C;2020.1;71
+32
+Z19 !s110 1641872164
+!i10b 1
+Z20 !s108 1641872164.000000
+Z21 !s90 -work|work|Waveform3.vwf.vht|
+Z22 !s107 Waveform3.vwf.vht|
+!i113 1
+R11
+Z23 tExplicit 1 CvgOpt 0
+Atestealu1_arch
+R14
+R15
+DEx4 work 21 testealu1_vhd_vec_tst 0 22 FQQfbMz0XVT>7zT5ihVmP1
+!i122 203
+l51
+L34 94
+VM><9D1I<IAGL>UH1ZaUIQ3
+!s100 Q8Z07M73mIL==C>LLFZSV1
+R18
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R23
+vtestealu1_vlg_vec_tst
+R1
+!i10b 1
+!s100 IRHT0cm>2_N6bCf]`e]_H3
+R2
+I3kJn2:mXN<_j7W:UYMT]i3
+R3
+R0
+R4
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 211
+L0 30 112
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
